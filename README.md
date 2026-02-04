@@ -59,7 +59,7 @@
   ### Documentation
   * [drf-yasg](https://github.com/axnsan12/drf-yasg): Alternative OpenAPI Generator for Django REST Framework with response schema support
   * [drf-spectacular](https://github.com/tfranzel/drf-spectacular): Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
-  * [drf-openapi-tester](https://github.com/snok/drf-openapi-tester): Test drf test responses against OpenAPI/Swagger documentation.
+  * [drf-openapi-tester](https://github.com/maticardenas/django-contract-tester): Test drf test responses against OpenAPI/Swagger documentation.
   
   ### Routing
 
